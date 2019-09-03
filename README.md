@@ -1,4 +1,4 @@
-Addressbook Tutorial newVersion - Magu
+Addressbook Tutorial newVersion - For Testing of Magu
 ====================
 
 This tutorial teaches you some of the basic concepts in [Vaadin Framework](https://vaadin.com). It is meant to be
